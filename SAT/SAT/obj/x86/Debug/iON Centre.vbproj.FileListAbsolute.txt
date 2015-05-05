@@ -1,0 +1,47 @@
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\Interop.AXVLC.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\iON Centre.vbproj.ResolveComReference.cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.exe.config
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.exe.manifest
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.application
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.pdb
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.xml
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\iON.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\iON.Form2.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\iON.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.exe.manifest
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.application
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.xml
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.pdb
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\Resources\blubysee.JPG
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.exe.config
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.exe.manifest
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.application
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.exe
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.pdb
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\NFEC-DE iON Assessment Centre.xml
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\Interop.WMPLib.dll
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\iON Centre.vbproj.ResolveComReference.cache
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\iON.Form1.resources
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\iON.Form2.resources
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\iON.Resources.resources
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\iON Centre.vbproj.GenerateResource.Cache
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.exe.manifest
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.application
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.exe
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.xml
+C:\Users\Abhinandan\Documents\Visual Studio 2012\Projects\SAT\SAT\obj\x86\Debug\NFEC-DE iON Assessment Centre.pdb
